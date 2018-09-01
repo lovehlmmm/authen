@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApisTokenAuth",
+    "\\WebApisTokenAuth\\App_Data",
+    "\\WebApisTokenAuth\\App_Start",
+    "\\WebApisTokenAuth\\Controllers",
+    "\\WebApisTokenAuth\\Models",
+    "\\WebApisTokenAuth\\obj\\Debug",
+    "\\WebApisTokenAuth\\Repository"
+  ],
+  "SelectedNode": "\\WebApisTokenAuth.sln",
+  "PreviewInSolutionExplorer": false
+}
